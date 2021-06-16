@@ -378,7 +378,6 @@
         <externalId>false</externalId>
         <label>Alpha_Dev1_Demo</label>
         <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
         <type>Checkbox</type>
     </fields>
     <fields>

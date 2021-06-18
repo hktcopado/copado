@@ -6,6 +6,11 @@
         <field>Account.Demo_Testing__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.XYZ_Training__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

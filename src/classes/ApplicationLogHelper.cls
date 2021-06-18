@@ -1,5 +1,5 @@
 /*------------------------------------------------------------  
-Author:        David1 Norris
+Author:        David Norris
 Company:       Salesforce.com
 Description:   An utility class for common application logging functions
 Test Class:    ApplicationLogHelper_Test
